@@ -1,0 +1,6 @@
+one_extra_shield=0
+two_extra_shields=0
+triple_shield_max=0
+quadruple_shield_max=0
+quintuple_shield_max=0
+ai=0
